@@ -8,6 +8,8 @@
 import Foundation
 
 public final class Greeting {
+    public init() {}
+    
     public func sayHello() -> String {
         return "Hello"
     }
