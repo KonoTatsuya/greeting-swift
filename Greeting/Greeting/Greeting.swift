@@ -11,6 +11,6 @@ public final class Greeting {
     public init() {}
     
     public func sayHello() -> String {
-        return "Hello"
+        return "Hello from Money Forward Engineers' Blog!"
     }
 }
