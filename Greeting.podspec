@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name         = "Greeting"
-  spec.version      = "0.0.1"
+  spec.version      = "0.0.2"
   spec.summary      = "This is a CocoaPods sample project for MoneyForward tech blog."
 
   spec.description  = <<-DESC
